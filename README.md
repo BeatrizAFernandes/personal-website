@@ -1,4 +1,4 @@
-# personal-website# My First Portfolio - starter project 🦄
+# My First Portfolio - starter project 🦄
 
 this is a basic portfolio HTML starter, missing the styles. It already has assets, that you can change and add your own adjustments  
 <br />
